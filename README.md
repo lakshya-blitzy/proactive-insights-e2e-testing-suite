@@ -1,1 +1,1 @@
-# proactive-insights-e2e-testing-suite
+# E2E suite\n\nAPI-level user journey examples. Run `pip install -r requirements.txt && BASE_URL=http://127.0.0.1:8000 pytest -q`. Add browser automation if a UI is available.\n
